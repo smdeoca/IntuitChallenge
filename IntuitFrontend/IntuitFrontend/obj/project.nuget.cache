@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6qQpn4wqDxV/ajegGpHPkJPu7sgrsnfEcSjPAkpOBjOeaoyV+cps70Lycur32mVG/KjKrWM7Ri/RMNo9GbPqaA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zshail\\Desktop\\IntuitChallenge MontesdeOca\\IntuitFrontend\\IntuitFrontend\\IntuitFrontend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zshail\\.nuget\\packages\\bootstrap\\5.3.2\\bootstrap.5.3.2.nupkg.sha512",
+    "C:\\Users\\Zshail\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

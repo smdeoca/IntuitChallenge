@@ -1,0 +1,136 @@
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\bin\Debug\net6.0\appsettings.json
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\bin\Debug\net6.0\IntuitBackend.exe
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\bin\Debug\net6.0\IntuitBackend.deps.json
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\bin\Debug\net6.0\IntuitBackend.runtimeconfig.json
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\bin\Debug\net6.0\IntuitBackend.dll
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\bin\Debug\net6.0\IntuitBackend.pdb
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\obj\Debug\net6.0\IntuitBackend.csproj.AssemblyReference.cache
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\obj\Debug\net6.0\IntuitBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\obj\Debug\net6.0\IntuitBackend.AssemblyInfoInputs.cache
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\obj\Debug\net6.0\IntuitBackend.AssemblyInfo.cs
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\obj\Debug\net6.0\IntuitBackend.csproj.CoreCompileInputs.cache
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\obj\Debug\net6.0\IntuitBackend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\obj\Debug\net6.0\IntuitBackend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\obj\Debug\net6.0\staticwebassets\msbuild.IntuitBackend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\obj\Debug\net6.0\staticwebassets\msbuild.build.IntuitBackend.props
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.IntuitBackend.props
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.IntuitBackend.props
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\obj\Debug\net6.0\scopedcss\bundle\IntuitBackend.styles.css
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\obj\Debug\net6.0\IntuitBackend.csproj.CopyComplete
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\obj\Debug\net6.0\IntuitBackend.dll
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\obj\Debug\net6.0\refint\IntuitBackend.dll
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\obj\Debug\net6.0\IntuitBackend.pdb
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\obj\Debug\net6.0\IntuitBackend.genruntimeconfig.cache
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\obj\Debug\net6.0\ref\IntuitBackend.dll
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Zshail\source\repos\IntuitBackend\IntuitBackend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\bin\Debug\net6.0\appsettings.json
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\bin\Debug\net6.0\IntuitBackend.exe
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\bin\Debug\net6.0\IntuitBackend.deps.json
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\bin\Debug\net6.0\IntuitBackend.runtimeconfig.json
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\bin\Debug\net6.0\IntuitBackend.dll
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\bin\Debug\net6.0\IntuitBackend.pdb
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\obj\Debug\net6.0\IntuitBackend.csproj.AssemblyReference.cache
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\obj\Debug\net6.0\IntuitBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\obj\Debug\net6.0\IntuitBackend.AssemblyInfoInputs.cache
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\obj\Debug\net6.0\IntuitBackend.AssemblyInfo.cs
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\obj\Debug\net6.0\IntuitBackend.csproj.CoreCompileInputs.cache
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\obj\Debug\net6.0\IntuitBackend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\obj\Debug\net6.0\IntuitBackend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\obj\Debug\net6.0\staticwebassets\msbuild.IntuitBackend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\obj\Debug\net6.0\staticwebassets\msbuild.build.IntuitBackend.props
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.IntuitBackend.props
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.IntuitBackend.props
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\obj\Debug\net6.0\scopedcss\bundle\IntuitBackend.styles.css
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\obj\Debug\net6.0\IntuitBackend.csproj.CopyComplete
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\obj\Debug\net6.0\IntuitBackend.dll
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\obj\Debug\net6.0\refint\IntuitBackend.dll
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\obj\Debug\net6.0\IntuitBackend.pdb
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\obj\Debug\net6.0\IntuitBackend.genruntimeconfig.cache
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\obj\Debug\net6.0\ref\IntuitBackend.dll

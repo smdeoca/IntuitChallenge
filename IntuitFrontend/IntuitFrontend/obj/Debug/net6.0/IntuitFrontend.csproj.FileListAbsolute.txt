@@ -1,0 +1,66 @@
+C:\Users\Zshail\source\repos\IntuitFrontend\IntuitFrontend\obj\Debug\net6.0\IntuitFrontend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zshail\source\repos\IntuitFrontend\IntuitFrontend\obj\Debug\net6.0\IntuitFrontend.AssemblyInfoInputs.cache
+C:\Users\Zshail\source\repos\IntuitFrontend\IntuitFrontend\obj\Debug\net6.0\IntuitFrontend.AssemblyInfo.cs
+C:\Users\Zshail\source\repos\IntuitFrontend\IntuitFrontend\obj\Debug\net6.0\IntuitFrontend.csproj.CoreCompileInputs.cache
+C:\Users\Zshail\source\repos\IntuitFrontend\IntuitFrontend\obj\Debug\net6.0\IntuitFrontend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Zshail\source\repos\IntuitFrontend\IntuitFrontend\obj\Debug\net6.0\IntuitFrontend.RazorAssemblyInfo.cache
+C:\Users\Zshail\source\repos\IntuitFrontend\IntuitFrontend\obj\Debug\net6.0\IntuitFrontend.RazorAssemblyInfo.cs
+C:\Users\Zshail\source\repos\IntuitFrontend\IntuitFrontend\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Zshail\source\repos\IntuitFrontend\IntuitFrontend\bin\Debug\net6.0\appsettings.json
+C:\Users\Zshail\source\repos\IntuitFrontend\IntuitFrontend\bin\Debug\net6.0\IntuitFrontend.staticwebassets.runtime.json
+C:\Users\Zshail\source\repos\IntuitFrontend\IntuitFrontend\bin\Debug\net6.0\IntuitFrontend.exe
+C:\Users\Zshail\source\repos\IntuitFrontend\IntuitFrontend\bin\Debug\net6.0\IntuitFrontend.deps.json
+C:\Users\Zshail\source\repos\IntuitFrontend\IntuitFrontend\bin\Debug\net6.0\IntuitFrontend.runtimeconfig.json
+C:\Users\Zshail\source\repos\IntuitFrontend\IntuitFrontend\bin\Debug\net6.0\IntuitFrontend.dll
+C:\Users\Zshail\source\repos\IntuitFrontend\IntuitFrontend\bin\Debug\net6.0\IntuitFrontend.pdb
+C:\Users\Zshail\source\repos\IntuitFrontend\IntuitFrontend\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Zshail\source\repos\IntuitFrontend\IntuitFrontend\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Zshail\source\repos\IntuitFrontend\IntuitFrontend\obj\Debug\net6.0\staticwebassets\msbuild.IntuitFrontend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Zshail\source\repos\IntuitFrontend\IntuitFrontend\obj\Debug\net6.0\staticwebassets\msbuild.build.IntuitFrontend.props
+C:\Users\Zshail\source\repos\IntuitFrontend\IntuitFrontend\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.IntuitFrontend.props
+C:\Users\Zshail\source\repos\IntuitFrontend\IntuitFrontend\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.IntuitFrontend.props
+C:\Users\Zshail\source\repos\IntuitFrontend\IntuitFrontend\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Zshail\source\repos\IntuitFrontend\IntuitFrontend\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Zshail\source\repos\IntuitFrontend\IntuitFrontend\obj\Debug\net6.0\scopedcss\bundle\IntuitFrontend.styles.css
+C:\Users\Zshail\source\repos\IntuitFrontend\IntuitFrontend\obj\Debug\net6.0\scopedcss\projectbundle\IntuitFrontend.bundle.scp.css
+C:\Users\Zshail\source\repos\IntuitFrontend\IntuitFrontend\obj\Debug\net6.0\IntuitFrontend.dll
+C:\Users\Zshail\source\repos\IntuitFrontend\IntuitFrontend\obj\Debug\net6.0\refint\IntuitFrontend.dll
+C:\Users\Zshail\source\repos\IntuitFrontend\IntuitFrontend\obj\Debug\net6.0\IntuitFrontend.pdb
+C:\Users\Zshail\source\repos\IntuitFrontend\IntuitFrontend\obj\Debug\net6.0\IntuitFrontend.genruntimeconfig.cache
+C:\Users\Zshail\source\repos\IntuitFrontend\IntuitFrontend\obj\Debug\net6.0\ref\IntuitFrontend.dll
+C:\Users\Zshail\source\repos\IntuitFrontend\IntuitFrontend\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Zshail\source\repos\IntuitFrontend\IntuitFrontend\obj\Debug\net6.0\IntuitFrontend.csproj.AssemblyReference.cache
+C:\Users\Zshail\source\repos\IntuitFrontend\IntuitFrontend\obj\Debug\net6.0\IntuitFrontend.csproj.CopyComplete
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitFrontend\IntuitFrontend\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitFrontend\IntuitFrontend\bin\Debug\net6.0\appsettings.json
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitFrontend\IntuitFrontend\bin\Debug\net6.0\IntuitFrontend.staticwebassets.runtime.json
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitFrontend\IntuitFrontend\bin\Debug\net6.0\IntuitFrontend.exe
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitFrontend\IntuitFrontend\bin\Debug\net6.0\IntuitFrontend.deps.json
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitFrontend\IntuitFrontend\bin\Debug\net6.0\IntuitFrontend.runtimeconfig.json
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitFrontend\IntuitFrontend\bin\Debug\net6.0\IntuitFrontend.dll
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitFrontend\IntuitFrontend\bin\Debug\net6.0\IntuitFrontend.pdb
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitFrontend\IntuitFrontend\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitFrontend\IntuitFrontend\obj\Debug\net6.0\IntuitFrontend.csproj.AssemblyReference.cache
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitFrontend\IntuitFrontend\obj\Debug\net6.0\IntuitFrontend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitFrontend\IntuitFrontend\obj\Debug\net6.0\IntuitFrontend.AssemblyInfoInputs.cache
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitFrontend\IntuitFrontend\obj\Debug\net6.0\IntuitFrontend.AssemblyInfo.cs
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitFrontend\IntuitFrontend\obj\Debug\net6.0\IntuitFrontend.csproj.CoreCompileInputs.cache
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitFrontend\IntuitFrontend\obj\Debug\net6.0\IntuitFrontend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitFrontend\IntuitFrontend\obj\Debug\net6.0\IntuitFrontend.RazorAssemblyInfo.cache
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitFrontend\IntuitFrontend\obj\Debug\net6.0\IntuitFrontend.RazorAssemblyInfo.cs
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitFrontend\IntuitFrontend\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitFrontend\IntuitFrontend\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitFrontend\IntuitFrontend\obj\Debug\net6.0\staticwebassets\msbuild.IntuitFrontend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitFrontend\IntuitFrontend\obj\Debug\net6.0\staticwebassets\msbuild.build.IntuitFrontend.props
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitFrontend\IntuitFrontend\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.IntuitFrontend.props
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitFrontend\IntuitFrontend\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.IntuitFrontend.props
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitFrontend\IntuitFrontend\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitFrontend\IntuitFrontend\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitFrontend\IntuitFrontend\obj\Debug\net6.0\scopedcss\bundle\IntuitFrontend.styles.css
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitFrontend\IntuitFrontend\obj\Debug\net6.0\scopedcss\projectbundle\IntuitFrontend.bundle.scp.css
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitFrontend\IntuitFrontend\obj\Debug\net6.0\IntuitFrontend.csproj.CopyComplete
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitFrontend\IntuitFrontend\obj\Debug\net6.0\IntuitFrontend.dll
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitFrontend\IntuitFrontend\obj\Debug\net6.0\refint\IntuitFrontend.dll
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitFrontend\IntuitFrontend\obj\Debug\net6.0\IntuitFrontend.pdb
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitFrontend\IntuitFrontend\obj\Debug\net6.0\IntuitFrontend.genruntimeconfig.cache
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitFrontend\IntuitFrontend\obj\Debug\net6.0\ref\IntuitFrontend.dll

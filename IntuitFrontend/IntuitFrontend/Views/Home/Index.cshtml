@@ -1,0 +1,132 @@
+﻿@model WeatherInfo.currentAndForecast;
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+<body>
+    <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.10.0.min.js" type="text/javascript"></script>
+    <script src="https://ajax.aspnetcdn.com/ajax/jquery.ui/1.9.2/jquery-ui.min.js" type="text/javascript"></script>
+    <link href="https://ajax.aspnetcdn.com/ajax/jquery.ui/1.9.2/themes/blitzer/jquery-ui.css" rel="Stylesheet" type="text/css"/>
+</body>
+<div class="text-center">
+    <div class="m-3 text-decoration-underline">
+        <h1>
+            Intuit Weather App
+        </h1>
+    </div>
+    
+
+    <form asp-action="SearchCity" id="searchForm">
+        <div class="container">
+            <div class="row justify-content-center text-start">
+                <div class="col-md-8 form-group m-2">
+                    <label for="cities">Buscar ciudad:</label>
+                    <input placeholder="Buscar ciudad..." type="text" id="cities" class="form-control" />
+                </div>
+            </div>
+        </div>
+        
+        
+        <input hidden name="cityId" id="cityId"/>
+    </form>
+
+    <div id="divSpinner" class="spinner-border m-3" role="status">
+    </div>
+
+    @if (Model is not null)
+    {
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-12">
+                    <label>Ciudad:</label>
+                    <h2>
+                        @Model.currentWeather.name
+                    </h2>
+                    <img class="img-thumbnail rounded-circle" src="@Model.currentWeather.iconLink" />
+                </div>
+            </div>
+            <div class="row d-flex justify-content-evenly">
+                <div class="col-md-3 mat-card">
+                    <label>Temperatura mínima: </label>
+                    <h2>
+                        @Model.currentWeather.main.temp_min °C
+                    </h2>
+                </div>
+                <div class="col-md-3 mat-card">
+                    <label>Temperatura actual: </label>
+                    <h2>
+                        @Model.currentWeather.main.temp °C
+                    </h2>
+                </div>
+                <div class="col-md-3 mat-card">
+                    <label>Temperatura máxima: </label>
+                    <h2>
+                        @Model.currentWeather.main.temp_max °C
+                    </h2>
+                </div>
+                <div class="col-md-3 mat-card">
+                    <label>Humedad: </label>
+                    <h2>
+                        @Model.currentWeather.main.humidity %
+                    </h2>
+                </div>
+            </div>
+
+            
+            <hr class="m-4" />
+
+            <div class="row justify-content-between d-flex">
+                
+                @foreach (var dia in Model.siguientesDias)
+                {
+                    <div class="col-xl-2 mat-card">
+                        <h3>@dia.nombreDia</h3>
+                        <h5>Min: @dia.minTemp °C</h5>
+                        <h5>Max: @dia.maxTemp °C</h5>
+                        <h5>Hum: @dia.avgHumidity %</h5>
+                    </div>
+                }
+                
+            </div>
+            
+            
+
+        </div>
+
+        
+    }
+</div>
+
+
+<script>
+    $("#divSpinner").hide();
+    
+    $("#cities").autocomplete({
+        source: function (request, response) {
+            $.getJSON("/city.list.json", request, function (data) {
+                var search = $("#cities").val().toLowerCase();
+                var newData = data.filter(obj => obj.name.toLowerCase().includes(search)).slice(0,5);
+                
+                var i, suggestions = [];
+                $.each(newData, function (i,val) {
+                    
+                    suggestions.push({
+                        label: val.name + " (" + val.country + ")",
+                        value: val.name + " (" + val.country + ")",
+                        id: val.id
+                    });
+                        
+                });
+                response(suggestions);
+            });
+        },
+        select: function(event, itemSelec){
+            $('#divSpinner').show();
+            $("#cityId").val(itemSelec.item.id);
+            $("#searchForm").submit();
+        }
+    });
+    
+
+</script>
+
