@@ -1,23 +1,19 @@
 ﻿using IntuitFrontend.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Caching.Memory;
 using Newtonsoft.Json;
-using System;
-using System.Diagnostics;
-using System.Security.Principal;
-using System.Text.Json;
-using static System.Net.WebRequestMethods;
 
 namespace IntuitFrontend.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
         private readonly IConfiguration _config;
+        private readonly IMemoryCache _memoryCache;
 
-        public HomeController(ILogger<HomeController> logger, IConfiguration config)
+        public HomeController(IConfiguration config, IMemoryCache memoryCache)
         {
-            _logger = logger;
             _config = config;
+            _memoryCache = memoryCache;
         }
 
         public IActionResult Index()
@@ -27,6 +23,11 @@ namespace IntuitFrontend.Controllers
 
         public IActionResult SearchCity(int cityId) 
         {
+            int cantidadDias = 6;
+            var weatherCache = _memoryCache.Get<WeatherInfo.currentAndForecast>(cityId);
+
+            if (weatherCache is not null) return View("Index", weatherCache);
+
             WeatherInfo.currentAndForecast info = new WeatherInfo.currentAndForecast();
             List<WeatherInfo.siguientesDias> listaDias = new List<WeatherInfo.siguientesDias>();
             var culture = new System.Globalization.CultureInfo("es-ES");
@@ -44,7 +45,7 @@ namespace IntuitFrontend.Controllers
                 
             //Los datos diarios de la API que uso no son gratis. Así que tengo que hacer lo siguiente para separar por días:
 
-            for(int i = 1; i < 6; i++)
+            for(int i = 1; i < cantidadDias; i++)
             {
                 WeatherInfo.siguientesDias siguientesDias = new WeatherInfo.siguientesDias();
                 //actualDay devuelve una lista con los datos de los horarios de un día especifico.
@@ -77,6 +78,9 @@ namespace IntuitFrontend.Controllers
             info.currentWeather = currentInfo;
             info.forecastWeather = forecastInfo;
             info.siguientesDias = listaDias;
+
+            _memoryCache.Set(cityId, info, TimeSpan.FromMinutes(2));
+
             return View("Index", info);
             
         }

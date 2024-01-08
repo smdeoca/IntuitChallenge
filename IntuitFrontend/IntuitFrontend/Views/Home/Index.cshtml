@@ -42,7 +42,10 @@
                     <h2>
                         @Model.currentWeather.name
                     </h2>
-                    <img class="img-thumbnail rounded-circle" src="@Model.currentWeather.iconLink" />
+                    
+                    <img class="img-thumbnail rounded-circle img-weather" src="@Model.currentWeather.iconLink" />
+                    
+                    
                 </div>
             </div>
             <div class="row d-flex justify-content-evenly">
@@ -80,7 +83,8 @@
                 @foreach (var dia in Model.siguientesDias)
                 {
                     <div class="col-xl-2 mat-card">
-                        <h3>@dia.nombreDia</h3>
+                        <h4>@dia.nombreDia</h4>
+                        <hr />
                         <h5>Min: @dia.minTemp °C</h5>
                         <h5>Max: @dia.maxTemp °C</h5>
                         <h5>Hum: @dia.avgHumidity %</h5>
