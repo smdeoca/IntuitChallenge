@@ -134,3 +134,4 @@ C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\
 C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\obj\Debug\net6.0\IntuitBackend.pdb
 C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\obj\Debug\net6.0\IntuitBackend.genruntimeconfig.cache
 C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\obj\Debug\net6.0\ref\IntuitBackend.dll
+C:\Users\Zshail\Desktop\IntuitChallenge MontesdeOca\IntuitBackend\IntuitBackend\obj\Debug\net6.0\IntuitBackend.sourcelink.json

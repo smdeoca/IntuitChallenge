@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IntuitBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f752c92f237d49e7bac9d3b2c2377386040a1acc")]
 [assembly: System.Reflection.AssemblyProductAttribute("IntuitBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IntuitBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

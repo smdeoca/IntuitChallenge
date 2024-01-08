@@ -2,30 +2,30 @@
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
-using Microsoft.Extensions.Configuration;
 
 namespace IntuitBackend.Models
 {
     public partial class IntuitDBContext : DbContext
     {
-        private readonly IWebHostEnvironment _environment;
-        
-        public IntuitDBContext(DbContextOptions<IntuitDBContext> options, IWebHostEnvironment environment)
-            : base(options)
+        public IntuitDBContext()
         {
-            _environment = environment;
         }
 
-        public virtual DbSet<Cliente> Clientes { get; set; } = null!;
+        public IntuitDBContext(DbContextOptions<IntuitDBContext> options)
+            : base(options)
+        {
+        }
+
+        public virtual DbSet<Cliente> Clientes { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             if (!optionsBuilder.IsConfigured)
             {
                 IConfiguration configuration = new ConfigurationBuilder().SetBasePath(Directory.GetCurrentDirectory())
-                    .AddJsonFile("appsettings.json")
-                    .AddJsonFile($"appsettings.{Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT")}.json", optional: true)
-                    .Build();
+                                .AddJsonFile("appsettings.json")
+                                .AddJsonFile($"appsettings.{Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT")}.json", optional: true)
+                                .Build();
 
                 string connectionString = configuration.GetConnectionString("DefaultConnection");
 
@@ -41,30 +41,35 @@ namespace IntuitBackend.Models
                 entity.Property(e => e.Id).HasColumnName("ID");
 
                 entity.Property(e => e.Apellidos)
+                    .IsRequired()
                     .HasMaxLength(50)
                     .IsUnicode(false);
 
                 entity.Property(e => e.Cuit)
-                    .HasMaxLength(50)
+                    .IsRequired()
+                    .HasMaxLength(13)
                     .IsUnicode(false)
                     .HasColumnName("CUIT");
 
                 entity.Property(e => e.Domicilio)
-                    .HasMaxLength(50)
+                    .HasMaxLength(300)
                     .IsUnicode(false);
 
                 entity.Property(e => e.Email)
-                    .HasMaxLength(50)
+                    .IsRequired()
+                    .HasMaxLength(300)
                     .IsUnicode(false);
 
                 entity.Property(e => e.FechaNacimiento).HasColumnType("date");
 
                 entity.Property(e => e.Nombres)
+                    .IsRequired()
                     .HasMaxLength(50)
                     .IsUnicode(false);
 
                 entity.Property(e => e.TelefonoCelular)
-                    .HasMaxLength(50)
+                    .IsRequired()
+                    .HasMaxLength(30)
                     .IsUnicode(false);
             });
 

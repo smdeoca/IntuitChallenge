@@ -7,7 +7,7 @@ namespace IntuitBackend.Services
     public interface IServiceCliente
     {
         Task<List<Cliente>> GetAll();
-        Task<Cliente?> Get(int id);
+        Task<Cliente> Get(int id);
         Task<List<Cliente>> Search(string valor);
         Task Insert(Cliente cliente);
         Task Update(Cliente oldClient, Cliente updatedClient);
@@ -38,9 +38,9 @@ namespace IntuitBackend.Services
 
         [HttpGet]
         [Route("Get")]
-        public async Task<Cliente?> Get(int id)
+        public async Task<Cliente> Get(int id)
         {
-            Cliente? client;
+            Cliente client;
             
             client = await _intuitDBContext.Clientes.FindAsync(id);
             
@@ -72,13 +72,24 @@ namespace IntuitBackend.Services
         [Route("Update")]
         public async Task Update(Cliente oldClient, Cliente updatedClient)
         {
-            oldClient.Apellidos = updatedClient.Apellidos ?? oldClient.Apellidos;
-            oldClient.Nombres = updatedClient.Nombres ?? oldClient.Nombres;
-            oldClient.Email = updatedClient.Email ?? oldClient.Email;
-            oldClient.TelefonoCelular = updatedClient.TelefonoCelular ?? oldClient.TelefonoCelular;
-            oldClient.Cuit = updatedClient.Cuit ?? oldClient.Cuit;
-            oldClient.Domicilio = updatedClient.Domicilio ?? oldClient.Domicilio;
-            oldClient.FechaNacimiento = updatedClient.FechaNacimiento ?? oldClient.FechaNacimiento;
+            //oldClient.Apellidos = updatedClient.Apellidos ?? oldClient.Apellidos;
+            //oldClient.Nombres = updatedClient.Nombres ?? oldClient.Nombres;
+            //oldClient.Email = updatedClient.Email ?? oldClient.Email;
+            //oldClient.TelefonoCelular = updatedClient.TelefonoCelular ?? oldClient.TelefonoCelular;
+            //oldClient.Cuit = updatedClient.Cuit ?? oldClient.Cuit;
+            //oldClient.Domicilio = updatedClient.Domicilio ?? oldClient.Domicilio;
+            //oldClient.FechaNacimiento = updatedClient.FechaNacimiento ?? oldClient.FechaNacimiento;
+            
+            //Si se quiere quitar uno de estos datos y dejarlo en null con el código de arriba no se podía
+            //porque en el caso de enviar en un null los datos se pisaban con el dato viejo por el operador coalesce.
+
+            oldClient.Apellidos = updatedClient.Apellidos;
+            oldClient.Nombres = updatedClient.Nombres;
+            oldClient.Email = updatedClient.Email;
+            oldClient.TelefonoCelular = updatedClient.TelefonoCelular;
+            oldClient.Cuit = updatedClient.Cuit;
+            oldClient.Domicilio = updatedClient.Domicilio;
+            oldClient.FechaNacimiento = updatedClient.FechaNacimiento;
 
             await _intuitDBContext.SaveChangesAsync();
         }

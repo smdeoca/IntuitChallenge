@@ -103,7 +103,7 @@ namespace IntuitBackend.Controllers
                     return BadRequest("Datos de cliente no válidos.");
                 }
 
-                Cliente? client = null;
+                Cliente client = null;
 
                 client = await serviceCliente.Get(id);
                     
@@ -116,7 +116,7 @@ namespace IntuitBackend.Controllers
 
                 await serviceCliente.Update(client, updatedClient);
                
-                return Ok("El registro se ha creado con éxito.");
+                return Ok("El registro se ha actualizado con éxito.");
             }
             catch (Exception ex)
             {
